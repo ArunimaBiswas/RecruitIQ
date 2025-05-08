@@ -1,0 +1,4 @@
+venv
+distilbert_resume_matcher/model.safetensors
+recruitment_system/credentials.json
+recruitment_system/token.pickle
